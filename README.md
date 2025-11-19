@@ -160,7 +160,7 @@ Ao iniciar, você verá:
 
 <div align="center">
   <img src="seliganafoto.png" alt="Preview" width="400">
-  <p><em>Interface principal da calculadora</em></p>
+  <p><em>Preview do Projeto</em></p>
 </div>
 
 ---
