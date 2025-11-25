@@ -155,15 +155,6 @@ Ao iniciar, você verá:
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="seliganafoto.png" alt="Preview" width="400">
-  <p><em>Preview do Projeto</em></p>
-</div>
-
----
-
 ## 🛠️ Estrutura do Projeto
 
 ```
